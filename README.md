@@ -2,8 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=realhongik)](https://solved.ac/realhongik)
-
-![WHO-A-U's github stats](https://github-readme-stats.vercel.app/api?username=WHO-A-U&show_icons=true)
+          ![WHO-A-U's github stats](https://github-readme-stats.vercel.app/api?username=WHO-A-U&show_icons=true)
 
 
 <!--
