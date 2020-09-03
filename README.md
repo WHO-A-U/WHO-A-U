@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj={realhongik})](https://solved.ac/{realhongik})
+프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=realhongik)](https://solved.ac/realhongik)
 <!--
 **WHO-A-U/WHO-A-U** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
