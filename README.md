@@ -2,7 +2,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=realhongik)](https://solved.ac/realhongik)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FWHO-A-U&count_bg=%2342C0A9&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+![WHO-A-U's github stats](https://github-readme-stats.vercel.app/api?username=WHO-A-U&show_icons=true)
 
 
 <!--
